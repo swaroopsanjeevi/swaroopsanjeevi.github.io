@@ -15,6 +15,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to Anscombe'sQuartet HTML Version](Anscombe'sQuartet.html)
 
 * A GitHub.com repository
-[Link to Repository](index.md)
+[Link to Repository](https://github.com/swaroopsanjeevi/python-practice-with-datatypes-data-science-intro-000)
 
 
