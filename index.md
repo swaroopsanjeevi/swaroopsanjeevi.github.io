@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: GitHub Site for Swaroop Sanjeevi
+description: A repository for storing approved content from MSBA
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
