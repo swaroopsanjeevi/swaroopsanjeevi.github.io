@@ -21,11 +21,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Small Embedded image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Small Image](small-image.jpeg)
 
 ### Large Embedded image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Furture of E-Commerce](large-image.jpeg)
 
 
 ```
