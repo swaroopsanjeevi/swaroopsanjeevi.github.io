@@ -5,7 +5,7 @@ description: A repository for storing approved content from MSBA
 
 
 
-[Link to another page](./msba/index.md).
+[Link to MSBA page](./msba/index.md).
 
 
 # Header 1
