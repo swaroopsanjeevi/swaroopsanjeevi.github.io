@@ -9,7 +9,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Header 1
 A Jupyter notebook
+[Link to Anscombe'sQuartet Jupyter Notebook](Anscombe'sQuartet.ipynb)
 An HTML rendering of a Jupyter Notebook
+[Link to Anscombe'sQuartet HTML Version](Anscombe'sQuartet.ipynb)
+
 A GitHub.com repository
+[Link to Repository](swaroopsanjeevi.io)
 
 
