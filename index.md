@@ -3,9 +3,9 @@ layout: GitHub Site for Swaroop Sanjeevi
 description: A repository for storing approved content from MSBA
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
+[Link to another page](./msba/index.md).
 
 There should be whitespace between paragraphs.
 
